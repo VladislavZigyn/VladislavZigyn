@@ -17,3 +17,6 @@ My name is Vladyslav Zihun and I'm a Python developer.
 ![Static Badge](https://img.shields.io/badge/Tools-Kubernetes-green?style=flat&logo=Kubernetes&logoColor=white&labelColor=gray)
 ![Static Badge](https://img.shields.io/badge/Cloud-Digital%20Ocean-green?style=flat&logo=DigitalOcean&logoColor=white&labelColor=gray)
 ![Static Badge](https://img.shields.io/badge/Cloud-AWS-green?style=flat&logo=AWS&logoColor=white&labelColor=gray)
+
+![Vladyslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladislavZigyn&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavZigyn&layout=compact)
