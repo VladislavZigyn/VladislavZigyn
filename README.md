@@ -4,6 +4,7 @@
   # Hey there, I'm Vladyslav! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 </div>
 
+
 ## About Me :
 
 👋 Hi there! I'm Vladislav, a Python Developer passionate about building reliable, scalable, and elegant software solutions.
@@ -13,12 +14,13 @@ I specialize in backend development with a strong focus on clean architecture, a
 💡 My experience bridges software engineering and data engineering — from creating APIs and ETL pipelines to orchestrating workflows and managing data flows efficiently.
 
 * 🌍  I'm based in Ukraine, Dnipro city
+* ✉️  You can contact me at [www.linkedin.com/in/zihun-vladyslav](https://www.linkedin.com/in/zihun-vladyslav)
 
 ## Languages :
 
 🇺🇦 **Ukrainian** – Native
 
-🇬🇧 **English** – Intermediate
+🇬🇧 **English** – Pre-Intermediate
 
 ## My stack and tools :
 
@@ -33,9 +35,11 @@ I specialize in backend development with a strong focus on clean architecture, a
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="50" height="50" alt="PostgreSQL" title="PostgreSQL" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="50" height="50" alt="MySQL" title="MySQL" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="50" height="50" alt="MongoDB" title="MongoDB" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" width="50" height="50" alt="Redis" title="Redis" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="50" height="50" alt="Docker" title="Docker" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="50" height="50" alt="Kubernetes" title="Kubernetes" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="50" height="50" alt="Git" title="Git" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="50" height="50" alt="GitHub" title="GitHub" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="50" height="50" alt="AWS" title="AWS" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="50" height="50" alt="Google Cloud" title="Google Cloud" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="50" height="50" alt="Azure" title="Azure" />
@@ -43,6 +47,7 @@ I specialize in backend development with a strong focus on clean architecture, a
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="50" height="50" alt="VS Code" title="VS Code" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="50" height="50" alt="PyTorch" title="PyTorch" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="50" height="50" alt="TensorFlow" title="TensorFlow" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nginx-colored.svg" width="50" height="50" alt="Nginx" title="Nginx" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="50" height="50" alt="GraphQL" title="GraphQL" />
 </p>
 
@@ -77,8 +82,6 @@ I specialize in backend development with a strong focus on clean architecture, a
   </tr>
 </table>
 
----
-
 <div align="center">
   
   ### 📫 Connect with me:
@@ -95,7 +98,8 @@ I specialize in backend development with a strong focus on clean architecture, a
   
   ---
   
-  *Love coding*
+  *Love coding, got a great sense of humor.*
   
+  ![](https://komarev.com/ghpvc/?username=VladislavZigyn&color=6366f1)
   
 </div>
