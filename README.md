@@ -98,8 +98,7 @@ I specialize in backend development with a strong focus on clean architecture, a
   
   ---
   
-  *Love coding, got a great sense of humor.*
+  *Love coding*
   
-  ![](https://komarev.com/ghpvc/?username=VladislavZigyn&color=6366f1)
   
 </div>
