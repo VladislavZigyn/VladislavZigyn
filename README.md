@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100" height="100" alt="GitHub Logo"/>
   
-  # Hey there, I'm Vladyslav! 👋
+  # Hey there, I'm Vladyslav! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 </div>
 
 ## About Me :
