@@ -12,8 +12,6 @@ I specialize in backend development with a strong focus on clean architecture, a
 
 💡 My experience bridges software engineering and data engineering — from creating APIs and ETL pipelines to orchestrating workflows and managing data flows efficiently.
 
-* 🌍  I'm based in Ukraine, Dnipro city
-* ✉️  You can contact me at www.linkedin.com/in/zihun-vladyslav
 
 ## Languages :
 
