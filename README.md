@@ -1,52 +1,99 @@
-# Hi 👋 My name is Vladyslav
+<div align="center">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100" height="100" alt="GitHub Logo"/>
+  
+  # Hey there, I'm Vladyslav! 👋
+</div>
 
-## Python Developer | Backend Developer | Data Engineer
+## About Me :
 
-👋 Hi there! I'm Vladislav, a Python Developer passionate about building reliable, scalable, and elegant software solutions.
+Passionate Python Developer | Backend Developer | Data Engineer
 
 I specialize in backend development with a strong focus on clean architecture, automation, and data processing.
 
 💡 My experience bridges software engineering and data engineering — from creating APIs and ETL pipelines to orchestrating workflows and managing data flows efficiently.
 
-* 🌍  I'm based in Ukraine, Dnipro city
-* ✉️  You can contact me at [www.linkedin.com/in/zihun-vladyslav](https://www.linkedin.com/in/zihun-vladyslav)
+## Languages :
 
-### Skills
+🇺🇦 **Ukrainian** – Native
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" /></a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" height="36" alt="Azure" /></a>
-<a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" /></a>
-</p>
+🇬🇧 **English** – Pre-Intermediate
 
-### Socials
+## My stack and tools :
 
 <p align="left">
-<a href="https://www.github.com/VladislavZigyn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/zihun-vladyslav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
-<a href="https://www.facebook.com/vladislav.zigyn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" /></a>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" title="HTML5" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" alt="CSS3" title="CSS3" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" title="JavaScript" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" title="Python" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="50" height="50" alt="PostgreSQL" title="PostgreSQL" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="50" height="50" alt="MySQL" title="MySQL" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="50" height="50" alt="Flask" title="Flask" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="50" height="50" alt="FastAPI" title="FastAPI" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="50" height="50" alt="Git" title="Git" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="50" height="50" alt="VS Code" title="VS Code" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="50" height="50" alt="Docker" title="Docker" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="50" height="50" alt="Linux" title="Linux" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="50" height="50" alt="AWS" title="AWS" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="50" height="50" alt="Google Cloud" title="Google Cloud" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="50" height="50" alt="Azure" title="Azure" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="50" height="50" alt="Django" title="Django" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="50" height="50" alt="PyTorch" title="PyTorch" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="50" height="50" alt="Kubernetes" title="Kubernetes" />
 </p>
 
-### Badges
+## GitHub Stats :
 
-**My GitHub Stats**
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=VladislavZigyn&show_icons=true&count_private=true&title_color=6366f1&text_color=333&icon_color=f97316&bg_color=ffffff&hide_border=true&custom_title=Vladyslav%20Zihun's%20GitHub%20Stats" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavZigyn&layout=compact&title_color=6366f1&text_color=333&bg_color=ffffff&hide_border=true&custom_title=Most%20Used%20Languages" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<a href="http://www.github.com/VladislavZigyn"><img src="https://github-readme-stats.vercel.app/api?username=VladislavZigyn&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&show_icons=true" alt="VladislavZigyn's GitHub stats" /></a>
+<table>
+  <tr>
+    <td align="center">
+      <h3>📊</h3>
+      <h2>Total Contributions</h2>
+      <p><em>Oct 19, 2023 - Present</em></p>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=VladislavZigyn&theme=default&hide_border=true&stroke=333&ring=f97316&fire=f97316&currStreakNum=333&currStreakLabel=f97316&sideNums=333&sideLabels=333&dates=333&background=ffffff&date_format=j%20M%20Y" alt="Current Streak" />
+    </td>
+    <td align="center">
+      <h3>🔥</h3>
+      <h2>Longest Streak</h2>
+      <p><em>Dec 26, 2024 - Dec 28, 2024</em></p>
+    </td>
+  </tr>
+</table>
 
-<a href="http://www.github.com/VladislavZigyn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VladislavZigyn&stroke=000000&background=ffffff&ring=6366f1&fire=6366f1&currStreakNum=000000&currStreakLabel=6366f1&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+---
+
+<div align="center">
+  
+  ### 🌍 I'm based in Ukraine, Dnipro city
+  
+  ### 📫 Contact me:
+  
+  <a href="https://www.linkedin.com/in/zihun-vladyslav" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+  </a>
+  <a href="https://www.github.com/VladislavZigyn" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+  </a>
+  <a href="https://www.facebook.com/vladislav.zigyn" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" />
+  </a>
+  
+  ---
+  
+  *Love coding, got a great sense of humor.*
+  
+  ![](https://komarev.com/ghpvc/?username=VladislavZigyn&color=6366f1)
+  
+</div>
