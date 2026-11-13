@@ -1,52 +1,46 @@
-<div align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100" height="100" alt="GitHub Logo"/>
-  
-  # Hey there, I'm Vladyslav! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-</div>
+### Hi there, I'm Vladyslav — Software & Data Engineer 
 
-## About Me :
-
-👋 Hi there! I'm Vladyslav, a **Software & Data Engineer** passionate about building robust backend systems, scalable architectures, and efficient data pipelines.
+👋 I'm a software and data engineer passionate about building robust backend systems, scalable architectures, and efficient data pipelines. 
 
 💡 My expertise bridges software engineering and data engineering — from designing REST APIs and microservices to orchestrating ETL workflows, processing large datasets, and managing infrastructure.
 
+---
 
-## Languages :
+### 🌐 Online Profiles
 
-🇺🇦 **Ukrainian** – Native
-
-🇬🇧 **English** – Intermediate
-
-
-## My stack and tools :
-
-<p align="left">
-<!-- Core Languages & Backend -->
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" title="Python" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="50" height="50" alt="FastAPI" title="FastAPI" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="50" height="50" alt="Flask" title="Flask" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="50" height="50" alt="Django" title="Django" />
-<!-- Databases -->
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="50" height="50" alt="PostgreSQL" title="PostgreSQL" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="50" height="50" alt="MySQL" title="MySQL" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="50" height="50" alt="MongoDB" title="MongoDB" />
-<!-- DevOps & Infrastructure -->
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="50" height="50" alt="Docker" title="Docker" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="50" height="50" alt="Kubernetes" title="Kubernetes" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="50" height="50" alt="Git" title="Git" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="50" height="50" alt="Linux" title="Linux" />
-<!-- Cloud -->
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="50" height="50" alt="AWS" title="AWS" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="50" height="50" alt="Google Cloud" title="Google Cloud" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="50" height="50" alt="Azure" title="Azure" />
-<!-- Tools & Ecosystem -->
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="50" height="50" alt="VS Code" title="VS Code" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="50" height="50" alt="GraphQL" title="GraphQL" />
+<p>
+  <a href="https://www.linkedin.com/in/zihun-vladyslav" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.facebook.com/vladislav.zigyn" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://github.com/VladislavZigyn" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
+---
 
-## GitHub Stats :
+### 🚀 Featured Repositories
+
+* **[Project-Name-1](ССЫЛКА_НА_РЕПОЗИТОРИЙ)** — Short description (e.g., *An automated ETL pipeline built with Python and PostgreSQL to process and sync data.*)
+* **[Project-Name-2](ССЫЛКА_НА_РЕПОЗИТОРИЙ)** — Short description (e.g., *A high-performance backend service built with FastAPI and Docker.*)
+* **[Project-Name-3](ССЫЛКА_НА_РЕПОЗИТОРИЙ)** — Short description (e.g., *Local data processing utility and workflow automation scripts.*)
+
+---
+
+### 🛠️ Tech Stack & Focus
+
+* **Languages:** Python, SQL, Bash
+* **Backend & APIs:** FastAPI, Flask, Django, REST, GraphQL
+* **Databases & Storage:** PostgreSQL, MySQL, MongoDB, DuckDB
+* **Infrastructure & Tools:** Docker, Kubernetes, Git, Linux, AWS, Google Cloud, Azure
+
+---
+
+### 🎯 Career Highlights & Philosophy
+
+* **Current Focus:** Building scalable backend solutions, optimizing data workflows, and establishing reliable local development environments.
+* **Core Philosophy:** *Write clean, maintainable code, automate repetitive tasks, and focus on delivering practical business outcomes.*
+* **Languages:** Ukrainian (Native), English (Intermediate)
+
+---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladislavZigyn&theme=default" alt="Profile Details" />
-  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VladislavZigyn&theme=default&hide_border=true&stroke=333&ring=f97316&fire=f97316&currStreakNum=333&currStreakLabel=f97316&sideNums=333&sideLabels=333&dates=333&background=ffffff&date_format=j%20M%20Y" alt="GitHub Streak" />
+</div>
