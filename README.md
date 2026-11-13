@@ -1,8 +1,8 @@
-### Hi there, I'm Vladyslav — Software & Data Engineer 
+### Hi there, I'm Vladyslav — Software & Data Engineer
 
-👋 I'm a software and data engineer passionate about building robust backend systems, scalable architectures, and efficient data pipelines. 
+👋 I'm a software and data engineer passionate about building robust backend systems, scalable architectures, and efficient data pipelines.
 
-💡 My expertise bridges software engineering and data engineering — from designing REST APIs and microservices to orchestrating ETL workflows, processing large datasets, and managing infrastructure.
+💡 My expertise bridges software engineering and data engineering — from designing REST APIs and microservices to orchestrating ETL/ELT workflows, processing large datasets, and managing cloud infrastructure.
 
 ---
 
@@ -16,26 +16,28 @@
 
 ---
 
-### 🚀 Featured Repositories
+### 🛠️ Tech Stack & Tools
 
-* **[Project-Name-1](ССЫЛКА_НА_РЕПОЗИТОРИЙ)** — Short description (e.g., *An automated ETL pipeline built with Python and PostgreSQL to process and sync data.*)
-* **[Project-Name-2](ССЫЛКА_НА_РЕПОЗИТОРИЙ)** — Short description (e.g., *A high-performance backend service built with FastAPI and Docker.*)
-* **[Project-Name-3](ССЫЛКА_НА_РЕПОЗИТОРИЙ)** — Short description (e.g., *Local data processing utility and workflow automation scripts.*)
+* **Programming Languages:** Python, SQL, Bash / Shell, JavaScript / TypeScript, C++
+* **Backend & Web Frameworks:** FastAPI, Flask, Django, GraphQL, RESTful APIs
+* **Data Engineering & Analytics:** ETL/ELT Pipelines, Data Modeling, Pandas, DuckDB, PyTorch, TensorFlow
+* **Databases & Storage:** PostgreSQL, MySQL, MongoDB, SQLite, Redis
+* **DevOps, Cloud & Infrastructure:** Docker, Kubernetes, Linux, Git, CI/CD, AWS, Google Cloud (GCP), Microsoft Azure
 
 ---
 
-### 🛠️ Tech Stack & Focus
+### 🧩 Engineering Focus & What I Build
 
-* **Languages:** Python, SQL, Bash
-* **Backend & APIs:** FastAPI, Flask, Django, REST, GraphQL
-* **Databases & Storage:** PostgreSQL, MySQL, MongoDB, DuckDB
-* **Infrastructure & Tools:** Docker, Kubernetes, Git, Linux, AWS, Google Cloud, Azure
+* **Backend Architecture:** Designing clean, modular, and testable microservices and APIs capable of handling concurrent workloads.
+* **Data Pipelines & Automation:** Building automated ingestion, transformation, and validation workflows to turn raw data into reliable analytical assets.
+* **Database Design & Optimization:** Schema modeling, query optimization, indexing strategies, and working across both relational (SQL) and NoSQL ecosystems.
+* **Containerization & Deployment:** Packaging applications and data workflows for reproducible local and cloud execution.
 
 ---
 
 ### 🎯 Career Highlights & Philosophy
 
-* **Current Focus:** Building scalable backend solutions, optimizing data workflows, and establishing reliable local development environments.
+* **Current Focus:** Building scalable backend solutions, optimizing data workflows, and crafting lightweight, high-performance engineering environments.
 * **Core Philosophy:** *Write clean, maintainable code, automate repetitive tasks, and focus on delivering practical business outcomes.*
 * **Languages:** Ukrainian (Native), English (Intermediate)
 
