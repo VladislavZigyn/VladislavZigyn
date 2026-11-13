@@ -6,11 +6,9 @@
 
 ## About Me :
 
-👋 Hi there! I'm Vladislav, a Python Developer passionate about building reliable, scalable, and elegant software solutions.
+👋 Hi there! I'm Vladyslav, a **Software & Data Engineer** passionate about building robust backend systems, scalable architectures, and efficient data pipelines.
 
-I specialize in backend development with a strong focus on clean architecture, automation, and data processing.
-
-💡 My experience bridges software engineering and data engineering — from creating APIs and ETL pipelines to orchestrating workflows and managing data flows efficiently.
+💡 My expertise bridges software engineering and data engineering — from designing REST APIs and microservices to orchestrating ETL workflows, processing large datasets, and managing infrastructure.
 
 
 ## Languages :
@@ -19,31 +17,33 @@ I specialize in backend development with a strong focus on clean architecture, a
 
 🇬🇧 **English** – Intermediate
 
+
 ## My stack and tools :
 
 <p align="left">
+<!-- Core Languages & Backend -->
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" title="Python" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" title="JavaScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" title="HTML5" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" alt="CSS3" title="CSS3" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="50" height="50" alt="FastAPI" title="FastAPI" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="50" height="50" alt="Flask" title="Flask" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="50" height="50" alt="Django" title="Django" />
+<!-- Databases -->
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="50" height="50" alt="PostgreSQL" title="PostgreSQL" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="50" height="50" alt="MySQL" title="MySQL" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="50" height="50" alt="MongoDB" title="MongoDB" />
+<!-- DevOps & Infrastructure -->
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="50" height="50" alt="Docker" title="Docker" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="50" height="50" alt="Kubernetes" title="Kubernetes" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="50" height="50" alt="Git" title="Git" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="50" height="50" alt="Linux" title="Linux" />
+<!-- Cloud -->
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="50" height="50" alt="AWS" title="AWS" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="50" height="50" alt="Google Cloud" title="Google Cloud" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="50" height="50" alt="Azure" title="Azure" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="50" height="50" alt="Linux" title="Linux" />
+<!-- Tools & Ecosystem -->
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="50" height="50" alt="VS Code" title="VS Code" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="50" height="50" alt="PyTorch" title="PyTorch" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="50" height="50" alt="TensorFlow" title="TensorFlow" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="50" height="50" alt="GraphQL" title="GraphQL" />
 </p>
+
 
 ## GitHub Stats :
 
@@ -94,7 +94,6 @@ I specialize in backend development with a strong focus on clean architecture, a
   
   ---
   
-  *Love coding*
-  
+  *Engineering clean data flows & reliable backends*
   
 </div>
